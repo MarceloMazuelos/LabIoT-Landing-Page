@@ -1,5 +1,6 @@
-import { createApp } from 'vue'
+// Usa jsDelivr en lugar de unpkg
+import { createApp } from 'https://cdn.jsdelivr.net/npm/vue@3/dist/vue.esm-browser.js';
 import './style.css'
-import app from './App.vue'
+import App from './App.vue'
 
-createApp(app).mount('#app')
+createApp(App).mount('#app')
