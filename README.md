@@ -39,5 +39,3 @@ For any inquiries or feedback, please reach out to us at [support@labiot.com](ma
 
 Thank you for checking out the LabIoT Landing Page!
 =======
-# LabIoT-Landing-Page
->>>>>>> d07e485f062c5472bb19f829fe763742a4f8303e
