@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LabIoT-Landing-Page
 
 Welcome to the LabIoT Landing Page project! This project is designed to showcase the LabIoT web application.
@@ -38,6 +37,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please reach out to us at [support@labiot.com](mailto:support@labiot.com). 
 
 Thank you for checking out the LabIoT Landing Page!
-=======
-# LabIoT-Landing-Page
->>>>>>> d07e485f062c5472bb19f829fe763742a4f8303e
