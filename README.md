@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LabIoT-Landing-Page
 
 Welcome to the LabIoT Landing Page project! This project is designed to showcase the LabIoT web application.
