@@ -526,14 +526,7 @@ h2 {
   border-radius: 6px;
   background-color: #F1F1F1;
   color: #333333;
-  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   box-sizing: border-box;
-}
-
-#contacto .form input::placeholder,
-#contacto .form textarea::placeholder {
-  color: #666666;
-  font-family: 'Open Sans', sans-serif;
 }
 </style>
