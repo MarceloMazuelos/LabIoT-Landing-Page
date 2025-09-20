@@ -3,7 +3,7 @@
 Welcome to the LabIoT Landing Page project! This project is designed to showcase the LabIoT web application.
 
 ## Overview
-[Yet to fill]
+Los-Bytes is dedicated to enhancing your work at labs by providing an intuitive platform with different useful tools when managing your inventory. The LabIoT application simplifies the saving inventory process, allowing you to speed up the process with less mistakes.
 ## Features
 [Yet to fill]
 ## Getting Started
